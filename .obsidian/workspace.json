@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "9aeb19ab6c978d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "05f67b329e0ad317",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c95f35c6c689863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5752c6c2e67ad325",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Content/concepts~and~notation.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a4650fa73d35560e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b643bc71665b9be0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Diary/2024-07-28.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b19e7b451464053",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cfde15a1683dfb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "495ca957420a6863",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c49e9a138510c155",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4b4b737a48c9de30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7493721f708a58cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "01f739cfe7cf970a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13a2cc0c58dda309",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Diary/2024-07-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8bbf9aa3abaab75d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Diary/2024-07-28.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c0fc435b48253c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e29a22c1265fe5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Diary/2024-07-28.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false
+    }
+  },
+  "active": "b643bc71665b9be0",
+  "lastOpenFiles": [
+    "_Content/individual~decision-making.md",
+    "_Content/concepts~and~notation.md",
+    "_Diary/2024-07-28.md",
+    "index.md",
+    "_Template/DailyNote.template.md",
+    "_Template/Note.template.md",
+    "_Diary",
+    "preamble.sty.txt",
+    "preamble.sty",
+    "preamble.sty.md",
+    "_Template",
+    "_Content",
+    "Вітаємо.md"
+  ]
+}
